@@ -1,0 +1,18 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: lightblue;
+}
+.button-container{
+    border-radius: 25px;
+    height: 25px;
+    width: 25px;
+    
+}
