@@ -10,9 +10,9 @@ body{
     align-items: center;
     background: lightblue;
 }
+
 .button-container{
     border-radius: 25px;
     height: 25px;
     width: 25px;
-    
 }
